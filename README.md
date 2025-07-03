@@ -1,0 +1,2 @@
+# SVUP
+SaveUP Token (SVUP)
